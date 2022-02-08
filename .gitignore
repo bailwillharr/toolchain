@@ -1,7 +1,7 @@
 # backups and ide stuff
 *~
 .idea/
-
+.vscode/
 
 # generated documentation
 doxygen/
